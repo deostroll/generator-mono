@@ -1,0 +1,15 @@
+{
+  "name": "mono-sample",
+  "version": "1.0.0",
+  "description": "a sample mono c# application",
+  "main": "src/Program.cs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [ "mono" ],
+  "license": "MIT",
+  "devDependencies" : {
+    "chalk": "^1.1.1",
+    "gulp": "^3.9.0"
+  }
+}
