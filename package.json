@@ -4,8 +4,8 @@
   "description": "a simple generator for kickstarting a mono project",
   "main": "generator/app/index.js",
   "files": [
-    "generator/app",
-    "generator/win"
+    "generators/app",
+    "generators/win"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
